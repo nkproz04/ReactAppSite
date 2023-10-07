@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/nkproz04/ReactAppSite.git/static/css/main.073c9b0a.css",
-    "main.js": "/nkproz04/ReactAppSite.git/static/js/main.b2482e8e.js",
+    "main.css": "/nkproz04/ReactAppSite.git/static/css/main.b046793a.css",
+    "main.js": "/nkproz04/ReactAppSite.git/static/js/main.f2aaf3dd.js",
     "static/js/787.7a71c4b0.chunk.js": "/nkproz04/ReactAppSite.git/static/js/787.7a71c4b0.chunk.js",
-    "static/media/logo.svg": "/nkproz04/ReactAppSite.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/nkproz04/ReactAppSite.git/index.html",
-    "main.073c9b0a.css.map": "/nkproz04/ReactAppSite.git/static/css/main.073c9b0a.css.map",
-    "main.b2482e8e.js.map": "/nkproz04/ReactAppSite.git/static/js/main.b2482e8e.js.map",
+    "main.b046793a.css.map": "/nkproz04/ReactAppSite.git/static/css/main.b046793a.css.map",
+    "main.f2aaf3dd.js.map": "/nkproz04/ReactAppSite.git/static/js/main.f2aaf3dd.js.map",
     "787.7a71c4b0.chunk.js.map": "/nkproz04/ReactAppSite.git/static/js/787.7a71c4b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b2482e8e.js"
+    "static/css/main.b046793a.css",
+    "static/js/main.f2aaf3dd.js"
   ]
 }
